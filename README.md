@@ -20,7 +20,7 @@ We aim to use visualization to show the effectiveness of governments' policy res
 
 We first displayed the number of new cases daily and the cumulative cases for the user selected country on the interactive dashboard (link to Tableau Public dashboard). We then showed the information for all the policies and the categories of those policies that a country implemented. The duration of each policy and their overlaps were shown through the gannet chart.
 
-For the evaluation of the effectiveness of those policies, we considered comparing the moving average of the cases per 100k before and after the date the policy gets implemented for each country. In addition, we compared across each policy for the average cases per 100k with other countries' cases per 100k. <br />
+For the evaluation of the effectiveness of those policies, we considered comparing the moving average of the cases before and after the date the policy gets implemented for each country. In addition, we compared across each policy for the average cases per 100k with other countries' cases per 100k. <br />
 
 <!-- Data -->
 ## Data
