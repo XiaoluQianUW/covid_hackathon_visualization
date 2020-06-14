@@ -18,7 +18,7 @@ Jiyu Wang <br />
 ## Contents
 We aim to use visualization to show the effectiveness of governments' policy responses towards the COVID-19 pandemic in different countries. We looked at three different major categories of policies: containment and closure policies,  economic policies, and health system policies. Within each category, there are different levels of stringency which were also taken into consideration.
 
-We first displayed the number of new cases per 100k daily and the cumulative cases per 100k for the user selected country on the interactive dashboard (link to tableau public dashboard). We then showed the information for all the policies and the categories of those policies that country implemented. The duration of each policy and their overlaps were shown through the gannet chart.
+We first displayed the number of new cases per 100k daily and the cumulative cases per 100k for the user selected country on the interactive dashboard (link to Tableau Public dashboard). We then showed the information for all the policies and the categories of those policies that a country implemented. The duration of each policy and their overlaps were shown through the gannet chart.
 
 For the evaluation of the effectiveness of those policies, we considered comparing the moving average of the cases per 100k before and after the date the policy gets implemented for each country. In addition, we compared across each policy for the average cases per 100k with other countries' cases per 100k. <br />
 
