@@ -29,3 +29,6 @@ We used two different datasets for our storytelling and visualization. [Oxford C
 
 ## Folder
 The Raw_data folder includes the raw dataset from both data sources described above. The Cleaned_data folder is what we use for generating the visualization in Tableau.
+
+## Presentation
+The [presentation](team_JiaLiDun_covid_visualization.pdf) file contains how to use our visualization to explore the data.
