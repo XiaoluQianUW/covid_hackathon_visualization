@@ -16,6 +16,7 @@ Xiaolu Qian <br />
 Jiyu Wang <br />
 <!-- Contents -->
 ## Contents
+[Tableau public link](https://public.tableau.com/profile/jiyu.wang#!/vizhome/HowDidPoliciesChangethePattern/StartDashboard?publish=yes). 
 We aim to use visualization to show the effectiveness of governments' policy responses towards the COVID-19 pandemic in different countries. We looked at three different major categories of policies: containment and closure policies,  economic policies, and health system policies. Within each category, there are different levels of stringency which were also taken into consideration.
 
 We first displayed the number of new cases daily and the cumulative cases for the user selected country on the interactive dashboard (link to Tableau Public dashboard). We then showed the information for all the policies and the categories of those policies that a country implemented. The duration of each policy and their overlaps were shown through the gannet chart.
