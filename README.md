@@ -16,6 +16,7 @@ Xiaolu Qian <br />
 Jiyu Wang <br />
 <!-- Contents -->
 ## Contents
+See [hackathon page](https://data-science-hackathon.github.io/COVID-19-Hackathon/)  <br />
 [Tableau public link](https://public.tableau.com/profile/jiyu.wang#!/vizhome/HowDidPoliciesChangethePattern/StartDashboard?publish=yes). Two connected dashboards are created. <br />
 We aim to use visualization to show the effectiveness of governments' policy responses towards the COVID-19 pandemic in different countries. We looked at three different major categories of policies: containment and closure policies,  economic policies, and health system policies. Within each category, there are different levels of stringency which were also taken into consideration.
 
